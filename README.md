@@ -41,7 +41,7 @@ Actualmente busco oportunidades para **aportar en equipos de desarrollo**, mient
 - [🔗 EnviarEmailConsola_net8](https://github.com/LeonidStuartGuillenAlvarado/EnviarEmailConsola_net8) – Envío de mails desde C#
 
 ### 📱 Frontend Angular
-- [🔗 Navagaci-nPag_Angular](https://github.com/LeonidStuartGuillenAlvarado/Navagaci-nPag_Angular) – SPA con navegación, localStorage y menú responsive
+- [🔗 Navagaci-nPag_Angular](https://github.com/LeonidStuartGuillenAlvarado/Navegaci-nPag_Angular) – SPA con navegación, localStorage y menú responsive
 
 ---
 

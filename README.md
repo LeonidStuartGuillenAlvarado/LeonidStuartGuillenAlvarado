@@ -33,6 +33,10 @@ Actualmente busco oportunidades para **aportar en equipos de desarrollo**, mient
 ## 📂 Mis proyectos destacados
 
 ### 🌐 Aplicaciones Web
+<p align="center">
+   <a href="https://twitch.tv/midudev" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Twitch_logo_2019.svg" alt="Canal de Twitch de midudev" height="28px" width="56px" />
+  </a>
 - <a href="https://github.com/LeonidStuartGuillenAlvarado/CRUD_ContactoAppWeb" target="blank">🔗 CRUD_ContactoAppWeb</a> – ASP.NET WebForms + SQL Server
 - <a href="https://github.com/LeonidStuartGuillenAlvarado/webGifApi_Angular" target="_blank">🔗 webGifApi_Angular</a> – Angular + API externa
 

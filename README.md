@@ -33,15 +33,15 @@ Actualmente busco oportunidades para **aportar en equipos de desarrollo**, mient
 ## 📂 Mis proyectos destacados
 
 ### 🌐 Aplicaciones Web
-- ![🔗 CRUD_ContactoAppWeb](https://github.com/LeonidStuartGuillenAlvarado/CRUD_ContactoAppWeb) – ASP.NET WebForms + SQL Server
-- [🔗 webGifApi_Angular](https://github.com/LeonidStuartGuillenAlvarado/webGifApi_Angular) – Angular + API externa
+- <a href="https://github.com/LeonidStuartGuillenAlvarado/CRUD_ContactoAppWeb" target="blank">🔗 CRUD_ContactoAppWeb</a> – ASP.NET WebForms + SQL Server
+- <a href="https://github.com/LeonidStuartGuillenAlvarado/webGifApi_Angular" target="blank">🔗 webGifApi_Angular</a> – Angular + API externa
 
 ### 🖥️ Proyectos de consola
-- [🔗 CircoAnimal_Net8](https://github.com/LeonidStuartGuillenAlvarado/CircoAnimal_Net8) – App de consola con SOLID
-- [🔗 EnviarEmailConsola_net8](https://github.com/LeonidStuartGuillenAlvarado/EnviarEmailConsola_net8) – Envío de mails desde C#
+- <a href="https://github.com/LeonidStuartGuillenAlvarado/CircoAnimal_Net8" target="blank">🔗 CircoAnimal_Net8</a> – App de consola con SOLID
+- <a href="https://github.com/LeonidStuartGuillenAlvarado/EnviarEmailConsola_net8" target="blank">🔗 EnviarEmailConsola_net8</a> – Envío de mails desde C#
 
 ### 📱 Frontend Angular
-- [🔗 Navagaci-nPag_Angular](https://github.com/LeonidStuartGuillenAlvarado/Navagaci-nPag_Angular) – SPA con navegación, localStorage y menú responsive
+- <a href="https://github.com/LeonidStuartGuillenAlvarado/Navagaci-nPag_Angular" target="blank">🔗 Navagaci-nPag_Angular</a> – SPA con navegación, localStorage y menú responsive
 
 ---
 

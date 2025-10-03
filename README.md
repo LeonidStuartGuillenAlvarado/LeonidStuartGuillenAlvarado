@@ -33,8 +33,8 @@ Actualmente busco oportunidades para **aportar en equipos de desarrollo**, mient
 ## 📂 Mis proyectos destacados
 
 ### 🌐 Aplicaciones Web
-- <a href="https://github.com/LeonidStuartGuillenAlvarado/CRUD_ContactoAppWeb" target="_blank">🔗 CRUD_ContactoAppWeb</a> – ASP.NET WebForms + SQL Server
-- <a href="https://github.com/LeonidStuartGuillenAlvarado/webGifApi_Angular" target="blank">🔗 webGifApi_Angular</a> – Angular + API externa
+- <a href="https://github.com/LeonidStuartGuillenAlvarado/CRUD_ContactoAppWeb" target="blank">🔗 CRUD_ContactoAppWeb</a> – ASP.NET WebForms + SQL Server
+- <a href="https://github.com/LeonidStuartGuillenAlvarado/webGifApi_Angular" target="_blank">🔗 webGifApi_Angular</a> – Angular + API externa
 
 ### 🖥️ Proyectos de consola
 - <a href="https://github.com/LeonidStuartGuillenAlvarado/CircoAnimal_Net8" target="blank">🔗 CircoAnimal_Net8</a> – App de consola con SOLID

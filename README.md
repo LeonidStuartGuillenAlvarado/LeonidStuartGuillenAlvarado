@@ -16,9 +16,12 @@
 
 Desarrollador Full Stack con orientación a **backend**, enfocado en crear aplicaciones escalables y bien estructuradas. Aplico **POO** y principios **SOLID** en cada proyecto.
 
+Actualmente trabajo de forma remota en un **ERP en producción para farmacias** (.NET, ASP.NET, SQL Server, Angular), donde resuelvo problemas reales de facturación, integraciones regulatorias y optimización de base de datos. En paralelo desarrollo proyectos propios aplicando arquitectura moderna.
+
 ```yaml
 enfoque:     Backend · APIs · Integraciones
-aprendiendo: Mensajería asincrónica · Pasarelas de pago
+trabajando:  ERP farmacéutico en producción (.NET / SQL Server)
+aprendiendo: Mensajería asincrónica · Pasarelas de pago · DDD
 objetivo:    Aportar en equipos de desarrollo profesionales
 ```
 
@@ -33,9 +36,15 @@ objetivo:    Aportar en equipos de desarrollo profesionales
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**Bases de datos**
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Frontend**
 
@@ -63,10 +72,28 @@ objetivo:    Aportar en equipos de desarrollo profesionales
 <tr>
 <td width="50%" valign="top">
 
+### 🥬 [INFRESH](https://github.com/LeonidStuartGuillenAlvarado/Infresh-code-app)
+E-commerce de productos frescos y orgánicos *(en desarrollo)*. Arquitectura **Vertical Slice + DDD** con bounded contexts. Angular moderno (**Signals, Standalone, Zoneless**) y backend con **JWT + Refresh Tokens**, EF Core y Result Pattern.
+
+`Angular 21` `.NET 8` `Supabase` `Tailwind 4` `DDD`
+
+</td>
+<td width="50%" valign="top">
+
 ### 💳 [MercadoPago-MVP](https://github.com/LeonidStuartGuillenAlvarado/MercadoPago-MVP)
 MVP de pagos con **QR dinámico y estático** usando la API de Mercado Pago. Confirmación en tiempo real vía **Webhooks + SignalR**.
 
 `ASP.NET 8` `Angular` `SQL Server` `SignalR` `Webhooks`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📨 [Probando_Rabbitmq](https://github.com/LeonidStuartGuillenAlvarado/Probando_Rabbitmq)
+Implementación de **mensajería asincrónica** con patrón Producer/Consumer para comunicación entre microservicios.
+
+`C#` `.NET` `RabbitMQ`
 
 </td>
 <td width="50%" valign="top">
@@ -89,38 +116,20 @@ Reproductor de música integrado con la **API de YouTube**. Búsqueda y reproduc
 </td>
 <td width="50%" valign="top">
 
-### 📨 [Probando_Rabbitmq](https://github.com/LeonidStuartGuillenAlvarado/Probando_Rabbitmq)
-Implementación de **mensajería asincrónica** con patrón Producer/Consumer para comunicación entre microservicios.
-
-`C#` `.NET` `RabbitMQ`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 📇 [CRUD_ContactoAppWeb](https://github.com/LeonidStuartGuillenAlvarado/CRUD_ContactoAppWeb)
 Aplicación web de gestión de contactos con operaciones CRUD completas y conexión a base de datos.
 
 `ASP.NET WebForms` `ADO.NET` `SQL Server`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📬 [EnviarEmailConsola_NET8](https://github.com/LeonidStuartGuillenAlvarado/EnviarEmailConsola_NET8)
 App de consola para envío automatizado de correos con datos de transacciones (Id, nombre, monto, método de pago).
 
 `C#` `.NET 8` `SMTP`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 [webGifApi_Angular](https://github.com/LeonidStuartGuillenAlvarado/webGifApi_Angular)
-Buscador de GIFs conectado a una API externa con búsqueda dinámica y visualización en grid.
-
-`Angular` `TypeScript` `REST API`
 
 </td>
 <td width="50%" valign="top">
